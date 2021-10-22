@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="keyboard wiring r2.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,19 +23,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="720.97761"
-     inkscape:cy="463.0409"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="591.58462"
+     inkscape:cy="567.94594"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1500"
+     inkscape:window-height="938"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      units="in"
-     showguides="true">
+     showguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1009" />
@@ -905,7 +904,7 @@
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#fff000;stroke-width:0.72500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 199.49583,197.64896 6.35,-20.37292 -6.35,-11.50937 6.21771,-8.86354 -7.67292,-17.33021 -30.29479,-1.85209 -8.33437,12.7 0.39687,15.47813 -0.39687,15.34583 0.13229,16.93333 -0.39688,15.875"
+       d="m 199.49583,197.64896 6.35,-20.37292 -6.35,-11.50937 6.21771,-8.86354 -7.67292,-17.33021 -30.29479,-1.85209 -8.33437,12.7 0.39687,15.47813 -0.39687,15.34583 0.13229,16.93333 -0.39688,15.875 -21.82379,24.01427 h 0.0935"
        id="path1047"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
@@ -1664,17 +1663,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="181.23958"
-       y="255.98958"
-       id="text1221"><tspan
-         sodipodi:role="line"
-         id="tspan1219"
-         x="181.23958"
-         y="255.98958"
-         style="stroke-width:0.26458332">k62 = KC_NO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="154.78125"
        y="238.79167"
        id="text1225"><tspan
@@ -1694,5 +1682,16 @@
          x="17.197916"
          y="101.47291"
          style="stroke-width:0.26458332">note: this is what it looks like FROM THE BACK!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="137.59422"
+       y="237.09798"
+       id="text1213-5"><tspan
+         sodipodi:role="line"
+         id="tspan1211-4"
+         x="137.59422"
+         y="237.09798"
+         style="stroke-width:0.264583">k62</tspan></text>
   </g>
 </svg>
